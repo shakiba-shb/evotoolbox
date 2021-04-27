@@ -1,0 +1,2 @@
+from evotoolbox.fitness.BaseFitness import BaseFitness
+from evotoolbox.fitness.MultiobjectiveFitness import MultiobjectiveFitness
